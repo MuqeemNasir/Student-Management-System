@@ -25,7 +25,7 @@ const TeacherForm = () => {
     <div className="row justify-content-center mt-4">
       <div className="col-md-6">
         <div className="card shadow-sm border-0 rounded-4 p-4">
-          <h2 className="text-center mb-4 text-primary fw-bold">Add Teacher</h2>
+          <h2 className="text-center mb-4 text-primary fw-bold">Add New Teacher</h2>
           <form onSubmit={handleSubmit}>
             <div className="mb-3">
               <input
